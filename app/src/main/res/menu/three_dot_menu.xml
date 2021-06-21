@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_search"
+        android:title="search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        />
+
+    <item android:id="@+id/share_3dot"
+        android:title="Share App"
+        app:showAsAction="never"/>
+    <item android:id="@+id/rate_3dot"
+        android:title="Rate App"
+        app:showAsAction="never"/>
+    <item android:id="@+id/sendFeedback_3dot"
+        android:title="Send Feedback"
+        app:showAsAction="never"/>
+    <item android:id="@+id/reportBug_3dot"
+        android:title="Report Bug"
+        app:showAsAction="never"/>
+    <item android:id="@+id/notification_3dot"
+        android:title="Allow Notification"
+        android:checkable="true"
+        app:showAsAction="never"/>
+    <item android:id="@+id/About_3dot"
+        android:title="About"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#A47DF3</color>
+    <color name="lightAccent">#72A47DF3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#CACACA</color>
+    <color name="limewhite">#9EFCFFD4</color>
+    <color name="purp">#F3DAFF</color>
+    <color name="lgreen">#B2E879</color>
+    <color name="lpink">#FCF5FF</color>
+    <color name="lpurp">#FCF5FF</color>
+
+    <color name="backgroundTint">#44085E</color>
+    <color name="actionTextColor">@color/cardview_shadow_end_color</color>
+
+    <color name="pro_lpurp">#F3F3FF</color>
+    <color name="pro_purp">#9791FF</color>
+    <color name="pro_blue">#2699FB</color>
+    <color name="pro_red">#FF9191</color>
+    <color name="pro_txt">#898686</color>
+    <color name="pro_txtImp">#2C6A74</color>
+
+    <color name="about_title">#8CA0A9</color>
+    <color name="about_txt">#8C95CF</color>
+</resources>

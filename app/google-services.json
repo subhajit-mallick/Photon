@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898453565931",
+    "firebase_url": "https://photon-47a0c.firebaseio.com",
+    "project_id": "photon-47a0c",
+    "storage_bucket": "photon-47a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898453565931:android:723ad80418a7d98b8ea9ae",
+        "android_client_info": {
+          "package_name": "com.subhajit.photon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898453565931-bbvassoeq8t3spp2566jdfbarkti9e85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subhajit.photon",
+            "certificate_hash": "c7dd7951463f255560db139a2cdb3a0a7ec03961"
+          }
+        },
+        {
+          "client_id": "898453565931-sofcaebgp853v6oj7efu7qbb7nc75p9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3QA29XMld_6HnV3Lq-k323WZNKlIF8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898453565931-sofcaebgp853v6oj7efu7qbb7nc75p9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

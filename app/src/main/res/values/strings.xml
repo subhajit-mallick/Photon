@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Photon</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_sign_in_txt">Oops! \nyou are not signed in</string>
+    <string name="search">Search here …</string>
+    <string name="Login">Login</string>
+    <string name="sign_up_text">Don\'t have an account?\n <b>SIGN UP</b></string>
+    <string name="login_text">Already have an Account ?\n <b>LOG IN</b></string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="logout">LOGOUT</string>
+    <string name="about">
+        <u>About</u>
+    </string>
+    <string name="lib_used"><u>Libraries Used</u></string>
+    <string name="lib_txt">Glide\nRoundedImageView\nChip Navigation Bar\nLottie Animation\nGoogle Material Design</string>
+    <string name="anim_used"><u>Animations &amp;\nVectors Used:</u></string>
+    <string name="anim_txt"><i>&#64;aleks.mograph/LottieFiles\n&#64;Katerina Limpitsouni/unDraw\n&#64;Pablo Stanley&amp; others/Humaaans</i></string>
+</resources>
